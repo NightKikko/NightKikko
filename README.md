@@ -1,10 +1,10 @@
-
 <div align="center">
-  <a href="https://discord.com/users/1056587676779810847"><img src="https://lanyard.cnrad.dev/api/1056587676779810847?bg=0A0A0A&borderRadius=35px" /></a>
+  <a href="https://discord.com/users/1056587676779810847">
+    <img src="https://lanyard.cnrad.dev/api/1056587676779810847?bg=0A0A0A&borderRadius=35px" />
   </a>
 </div>
 <br />
-<h3 align="center">🛠️ Mes Compétences</h3>
+<h3 align="center">🛠️ My Skills</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
@@ -19,9 +19,9 @@
 </p>
 <br />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nightkikko&label=Vues%20de%20profil&color=3994db&style=flat" alt="nightkikko" />
+  <img src="https://komarev.com/ghpvc/?username=nightkikko&label=Profile%20Views&color=3994db&style=flat" alt="nightkikko" />
 </p>
-<h3 align="center">📌 Mes Discord</h3>
+<h3 align="center">📌 My Discord Servers</h3>
 <p align="center">
   <a href="https://discord.gg/mercato" target="_blank">🔹 Mercato</a><br />
   <a href="https://discord.gg/freeforreal" target="_blank">🔹 FreeForReal</a><br />
